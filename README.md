@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=datlearner.datlearner" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+![GreetingsGIF](https://github.com/user-attachments/assets/598e7b06-018e-45a7-a3cb-5411ac029f1a)
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😁
 ;+I'm+Kundai+Muchemwa!;+A+Front-End+Developer!;+Web+Designer" />
 </h1>
 
