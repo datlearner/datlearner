@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **health tracking platform to enhance patient care through technology**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning ** backend development and cloud services with AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything **
+💬 Ask me about **MERN, or anything web-related! **
 
 ⚡ Fun fact **It’s all 0’s and 1’s**
 
