@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="center">
+<div>
  
  🔭 I’m currently working on **health tracking platform to enhance patient care through technology**
  
