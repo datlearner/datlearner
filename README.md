@@ -16,7 +16,7 @@
  
  👨‍💻 I’m currently learning ** backend development and cloud services with AWS**
 
-💬 Ask me about **MERN, or anything web-related! **
+💻 I specialize in converting any design into clean, efficient, and responsive code. With a deep understanding of front-end technologies,😊 I can transform visual concepts into fully functional web applications, ensuring pixel-perfect accuracy and optimized performance across all devices.💯
 
 ⚡ Fun fact **It’s all 0’s and 1’s**
 
