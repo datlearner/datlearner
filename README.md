@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">A passionate and forward-thinking software developer from Zimbabwe, dedicated to crafting innovative solutions and embracing new challenges in the ever-evolving world of technology.</h3>
+<h3 align="center">A passionate and forward-thinking software developer, dedicated to crafting innovative solutions and embracing new challenges in the ever-evolving world of technology.</h3>
 
 <br/>
 
