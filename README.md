@@ -11,8 +11,7 @@
 <br/>
 
 <div>
- 
- 🔭 I’m currently working on **health tracking platform to enhance patient care through technology**
+
  
  👨‍💻 I’m currently learning ** backend development and cloud services with AWS**
 
