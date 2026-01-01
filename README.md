@@ -44,7 +44,7 @@ A passionate and forward-thinking software developer focused on building scalabl
 <br/><br/>
 
 <!-- Cloud Providers -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="45" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" alt="AWS"/>
 
 <br/><br/>
 
